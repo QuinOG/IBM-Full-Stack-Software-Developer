@@ -3,6 +3,9 @@ All assignments from the 12 courses in the "IBM Full Stack Software Developer Pr
 
 Table of Contents
 ------------------
+
+Course 0
+
 Course 1
 
 Course 2
@@ -21,5 +24,4 @@ Course 8
 
 Course 9
 
-Course 10
 
